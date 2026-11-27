@@ -1,7 +1,7 @@
 
 #include <iostream>
 int main(){
-setlocale(LC_ALL, "RU");
+
 float num1,num2;
 char math;
 std::cout << "Type first number\n";
